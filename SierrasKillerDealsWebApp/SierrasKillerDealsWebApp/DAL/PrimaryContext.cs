@@ -4,12 +4,13 @@ using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
 using System.Text;
+using System.Web;
 using System.Threading.Tasks;
 using SierrasKillerDealsWebApp.Models;
 
 namespace SierrasKillerDealsWebApp.DAL
 {
-    class PrimaryContext : DbContext 
+   public class PrimaryContext : DbContext 
     {
         public PrimaryContext() : base("PrimaryContext")
         { }

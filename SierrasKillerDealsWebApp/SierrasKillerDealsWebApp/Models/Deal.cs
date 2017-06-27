@@ -8,7 +8,7 @@ using System.Data.Entity;
 
 namespace SierrasKillerDealsWebApp.Models
 {
-    class Deal
+   public class Deal
     {
         public int DealID { get; set; }
         public int CategoryID { get; set; }

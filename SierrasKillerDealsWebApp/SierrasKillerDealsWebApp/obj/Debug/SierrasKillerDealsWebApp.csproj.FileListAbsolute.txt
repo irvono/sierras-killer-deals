@@ -52,4 +52,3 @@ C:\Users\Irvin\Desktop\git-repos\sierras-killer-deals\SierrasKillerDealsWebApp\S
 C:\Users\Irvin\Desktop\git-repos\sierras-killer-deals\SierrasKillerDealsWebApp\SierrasKillerDealsWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Irvin\Desktop\git-repos\sierras-killer-deals\SierrasKillerDealsWebApp\SierrasKillerDealsWebApp\obj\Debug\SierrasKillerDealsWebApp.dll
 C:\Users\Irvin\Desktop\git-repos\sierras-killer-deals\SierrasKillerDealsWebApp\SierrasKillerDealsWebApp\obj\Debug\SierrasKillerDealsWebApp.pdb
-C:\Users\Irvin\Desktop\git-repos\sierras-killer-deals\SierrasKillerDealsWebApp\SierrasKillerDealsWebApp\obj\Debug\SierrasKillerDealsWebApp.csprojResolveAssemblyReference.cache
